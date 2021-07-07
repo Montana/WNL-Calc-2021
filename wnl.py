@@ -3,7 +3,6 @@ from random import random
 
 print ("Welcome to the Wife N Life Calculator 2021\n" );
 
-
 job = input("What's your job?:")
 shoes = input("What kind of shoes do you wear?:")
 hobbies = input("What do you do for fun?:")
