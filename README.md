@@ -1,4 +1,4 @@
-# WNLCalc2021 (Wife N Life % Calculator 2021)
+# WNL Calc 2021 (Wife N Life % Calculator 2021)
 
 Wife N Life % Calculator, idea by Montana Mendy and Patrick Steadman.
 
