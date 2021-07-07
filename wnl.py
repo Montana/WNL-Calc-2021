@@ -9,7 +9,7 @@ hobbies = input ("What do you do for fun?:")
 wife = input ("Do you want a wife by 2025?:")
 optional_information = input ("Do you use MongoDB? CongoDB? Do you wear Cargo Shorts?:")
 wnl = input ("Do you think a wife n life % > 30 is possible for Montana?:")
-total_ward = input ("Do you know a Jeff Ward?":)
+total_ward = input ("Do you know a Jeff Ward?:")
 chances = input ("Press enter to find out your Wife N Life %, given all 7 variables:")
 
 seed(1)
