@@ -1,6 +1,6 @@
 from random import seed
-
 from random import random
+
 print ("Welcome to the Wife N Life Calculator 2021\n" );
 
 
